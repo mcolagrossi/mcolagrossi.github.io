@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mcolagrossi/mcolagrossi.github.io"
-teaser                   : "Marco Colagrossi-bn.jpg"
+teaser                   : #"Marco Colagrossi-bn.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marco Colagrossi"
-  avatar           : "profile.png"
+  avatar           : "Marco Colagrossi-bn.jpg"
   bio              : "Economist at the EC Joint Research Centre. MSc @ UvT, PhD @ Unicatt. Curious about labour economics and microeconometrics."
 #  location         : "Varese (IT)"
   employer         : "European Commission"
