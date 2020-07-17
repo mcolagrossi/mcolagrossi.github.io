@@ -80,14 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Marco Colagrossi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am an economist at the Monitoring, Indicators, and Impact Evaluation Unit of the European Commission’s Joint Research Centre in Ispra, Italy. 
+I earned an MSc in Economics from the University of Tilburg and a PhD in Economics at the Uniersita' Cattolica Del Sacro Cuore. 
+My research interests include labour economics and microeconometrics methods applied to meta-analysis."
+  location         : "Varese (IT)"
   employer         : "Joint Research Centre, European Commission"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=ARKefuQAAAAJ&hl=it&oi=ao"
-  email            :
+  email            : marco.colagrossi[at]ec.europa.eu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
