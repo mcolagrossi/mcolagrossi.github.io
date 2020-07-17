@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marco Colagrossi / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Marco Colagrossi"
 description              : &description "personal description"
@@ -82,15 +82,13 @@ analytics:
 author:
   name             : "Marco Colagrossi"
   avatar           : "profile.png"
-  bio              : "I am an economist at the Monitoring, Indicators, and Impact Evaluation Unit of the European Commission’s Joint Research Centre in Ispra, Italy. 
-I earned an MSc in Economics from the University of Tilburg and a PhD in Economics at the Uniersita' Cattolica Del Sacro Cuore. 
-My research interests include labour economics and microeconometrics methods applied to meta-analysis."
-  location         : "Varese (IT)"
-  employer         : "Joint Research Centre, European Commission"
+  bio              : "Economist at the EC Joint Research Centre. MSc @ UvT, PhD @ Unicatt.Interest in labour economics and microeconometrics."
+#  location         : "Varese (IT)"
+  employer         : "European Commission"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=ARKefuQAAAAJ&hl=it&oi=ao"
-  email            : marco.colagrossi[at]ec.europa.eu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "marco.colagrossi@ec.europa.eu"
+  researchgate     : "https://www.researchgate.net/profile/Marco_Colagrossi"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,20 +96,20 @@ My research interests include labour economics and microeconometrics methods app
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/mcolagrossi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5305-9741"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
