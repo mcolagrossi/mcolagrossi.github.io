@@ -2,12 +2,12 @@
 title: "Like (Grand)Parent, Like Child? Multigenerational Mobility Across the EU"
 collection: talks
 permalink: /talks/2019_multi
-excerpt: 'With B. D Hombres (JRC) and Sylke V. Schnepf (JRC) - R&R European Economic Review'
+excerpt: 'With Béatrice D Hombres (JRC) and Sylke V. Schnepf (JRC) - R&R European Economic Review'
 venue: 'IZA working paper'
 date: September 2019
 paperurl: 'http://ftp.iza.org/dp12302.pdf'
 ---
-With B. D Hombres (JRC) and Sylke V. Schnepf (JRC)
+With Béatrice D Hombres (JRC) and Sylke V. Schnepf (JRC)
 
 R&R European Economic Review
 
