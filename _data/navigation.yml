@@ -4,9 +4,9 @@ main:
     url: /publications/
 
   - title: "Work in Progress"
-    url: /talks/    
+    url: /wip/    
 
-  - title: "Policy"
+  - title: "Policy Contributions"
     url: /teaching/    
     
 #  - title: "Portfolio"
