@@ -13,4 +13,3 @@ R&R European Economic Review
 
 Abstract 
 -----
-This study shows that the intergenerational transmission of inequality in most of the 28 EU countries is higher than what a parent-to-child paradigm would suggest. While a strand
