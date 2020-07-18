@@ -7,7 +7,7 @@ venue: 'SSRN working paper'
 date: May 2020
 paperurl: 'http://dx.doi.org/10.2139/ssrn.3627754'
 ---
-With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)
+With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)
 
 Abstract 
 -----
