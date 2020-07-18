@@ -2,12 +2,12 @@
 title: "Is unequal uptake of Erasmus mobility really only due to students’ choices? The role of selection into universities and fields of study"
 collection: publications
 permalink: /publication/2020_unequal
-excerpt: 'With Sylke V. Schepf (JRC)'
+excerpt: 'With [Sylke V. Schnepf](https://www.iza.org/person/1757/sylke-v-schnepf)  (JRC)'
 date: 2020-03-03
 venue: 'Journal of European Social Policy'
 paperurl: 'https://doi.org/10.1177/0958928719899339'
 ---
-With Sylke V. Schepf (JRC)
+With [Sylke V. Schnepf](https://www.iza.org/person/1757/sylke-v-schnepf) (JRC)
 
 Abstract 
 ------
