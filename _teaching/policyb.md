@@ -4,7 +4,7 @@ collection: teaching
 type: "Fairness Policy Briefs Series"
 permalink: /teaching/policyb
 venue: "JRC"
-date: 2019
+date: 2019-01-01
 location: "Ispra, (VA), Italy"
 ---
 
