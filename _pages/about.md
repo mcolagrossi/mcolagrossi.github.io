@@ -12,7 +12,7 @@ I am an economist working at the European Commission [Joint Research Centre](htt
 
 I earned an MSc in Economics from [Tilburg University](https://www.tilburguniversity.edu/) (UvT) and a PhD at the [Università Cattolica del Sacro Cuore](https://www.ucsc.it/) (UCSC), Department of International Economics, Institutions and Development, where I worked as a researcher. Prior to joining the JRC, I was a visiting researcher at [Chatham House](https://www.chathamhouse.org/), the Royal Institute of International Affairs, London.
 
-My research interests include labor economics, public policy, microeconometrics methods.
+My research interests include labor economics, political economy and microeconometrics methods.
 
 Contacts
 ======
