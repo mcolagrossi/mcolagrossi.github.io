@@ -274,7 +274,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-exclude: [vendor]
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
