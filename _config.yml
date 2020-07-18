@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marco Colagrossi"
-  avatar           : "https://github.com/mcolagrossi/mcolagrossi.github.io/images/MarcoColagrossi-bn.jpg"
+  avatar           : "/tree/master/images/MarcoColagrossi-bn.jpg"
   bio              : "Economist at the EC Joint Research Centre. MSc @ UvT, PhD @ Unicatt. Curious about labour economics and microeconometrics."
 #  location         : "Varese (IT)"
   employer         : "European Commission"
