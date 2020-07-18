@@ -1,11 +1,11 @@
 ---
-title: "Googling Unemployment During the Pandemic: Inference and Nowcast Using Search Data"
+title: "Like (Grand)Parent, like Child? Multigenerational Mobility across the EU"
 collection: talks
 permalink: /talks/2019_multi
 excerpt: 'With Giulio Caperna (JRC), Andrea Geraci (JRC) and Gianluca Mazzarella (JRC)'
 venue: 'SSRN working paper'
 date: May 2020
-paperurl: 'http://dx.doi.org/10.2139/ssrn.3627754'
+paperurl: 'http://ftp.iza.org/dp12302.pdf'
 ---
 With Giulio Caperna (JRC), Andrea Geraci (JRC) and Gianluca Mazzarella (JRC)
 
