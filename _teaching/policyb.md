@@ -5,7 +5,7 @@ type: "Fairness Policy Briefs Series"
 permalink: /teaching/policyb
 venue: "JRC"
 date: 2019-2020
-location: ""
+location: "Ispra, (VA), Italy"
 ---
 
 Contributed to the [Fairness Policy Briefs Series](https://ec.europa.eu/jrc/en/research/crosscutting-activities/fairness/fairness-policy-briefs-series)
