@@ -1,5 +1,5 @@
 ---
-title: "Like (Grand)Parent, like Child? Multigenerational Mobility across the EU"
+title: "Like (Grand)Parent, Like Child? Multigenerational Mobility Across the EU"
 collection: talks
 permalink: /talks/2019_multi
 excerpt: 'With B. D Hombres (JRC), Sylke V. Schnepf (JRC) - R&R European Economic Review'
