@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Marco Colagrossi"
 description              : &description "personal description"
 url                      : https://mcolagrossi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/mcolagrossi.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mcolagrossi/mcolagrossi.github.io"
 teaser                   : #"Marco Colagrossi-bn.jpg"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marco Colagrossi"
-  avatar           : "images/MarcoColagrossi-bn.jpg"
+  avatar           : "MarcoColagrossi-bn.jpg"
   bio              : "Economist at the EC Joint Research Centre. MSc @ UvT, PhD @ Unicatt. Passionate about labour economics and microeconometrics."
 #  location         : "Varese (IT)"
   employer         : "European Commission"
