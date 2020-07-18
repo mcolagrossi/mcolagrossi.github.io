@@ -4,7 +4,7 @@ collection: teaching
 type: "Project Leader"
 permalink: /teaching/2020_gtrends
 venue: "JRC"
-date: 2019-2020
+date: 2020-07-01
 location: "Ispra, (VA), Italy"
 ---
 
