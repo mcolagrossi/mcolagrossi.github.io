@@ -1,6 +1,6 @@
+<meta name="google-site-verification" content="3hmjR3iGPcxxiAbdmtN5RGzQUfu7kcR40aC-aywsQvY" />
 ---
 permalink: /
-<meta name="google-site-verification" content="3hmjR3iGPcxxiAbdmtN5RGzQUfu7kcR40aC-aywsQvY" />
 title: "About me"
 excerpt: "About me"
 author_profile: true
