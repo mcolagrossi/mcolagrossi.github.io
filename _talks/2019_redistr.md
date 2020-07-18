@@ -2,12 +2,12 @@
 title: "The Median Voter Takes it All: Preferences for Redistribution and Income Inequality in the EU-28"
 collection: talks
 permalink: /talks/2019_redistr
-excerpt: 'With S. Karagiannis (JRC) and Roman Raab (JRC)'
+excerpt: 'With Stelios Karagiannis (JRC) and Roman Raab (JRC)'
 venue: 'JRC Working Papers in Economics and Finance'
 date: July 2019
 paperurl: 'https://op.europa.eu/en/publication-detail/-/publication/ba135207-a45e-11e9-9d01-01aa75ed71a1'
 ---
-With S. Karagiannis (JRC) and Roman Raab (JRC)
+With Stelios Karagiannis (JRC) and Roman Raab (JRC)
 
 Abstract 
 -----
