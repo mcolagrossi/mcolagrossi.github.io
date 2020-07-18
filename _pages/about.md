@@ -19,10 +19,15 @@ My research interests include labor economics, public policy, microeconometrics 
 Contact Info
 ======
 European Commission - Joint Research Centre
+
 Unit I.1 -  Monitoring, Indicators and Impact Evaluation 
+
 Via E. Fermi 2749,
+
 TP 361, 21027, Ispra (VA), Italy
+
 Tel. +39 0332 78 9526
+
 Email: marco.colagrossi [at] ec.europa.eu
 
 
