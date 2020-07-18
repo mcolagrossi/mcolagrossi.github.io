@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Policy"
+  - title: "Work in Progress"
     url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Policy work"
+    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -15,7 +15,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Curriculum"
+  - title: "CV"
     url: /cv/
     
 #  - title: "Guide"
