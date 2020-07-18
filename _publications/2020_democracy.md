@@ -2,12 +2,12 @@
 title: "Does democracy cause growth? A meta-analysis (of 2000 regressions)"
 collection: publications
 permalink: /publication/2020_democracy
-excerpt: 'With Domenico Rossignoli (UCSC) and Mario A. Maggioni (UCSC)'
+excerpt: 'With [Domenico Rossignoli](https://docenti.unicatt.it/ppd2/en/docenti/26508/domenico-rossignoli/profilo) (UCSC) and [Mario A. Maggioni](https://docenti.unicatt.it/ppd2/it/docenti/04147/mario-agostino-maggioni/profilo) (UCSC)'
 venue: 'European Journal of Political Economy, Volume 61'
 date: 2020-01-01
 paperurl: 'https://doi.org/10.1016/j.ejpoleco.2019.101824'
 ---
-With Domenico Rossignoli (UCSC) and Mario A. Maggioni (UCSC)
+With [Domenico Rossignoli](https://docenti.unicatt.it/ppd2/en/docenti/26508/domenico-rossignoli/profilo) (UCSC) and [Mario A. Maggioni](https://docenti.unicatt.it/ppd2/it/docenti/04147/mario-agostino-maggioni/profilo) (UCSC)
 
 Abstract 
 -----
