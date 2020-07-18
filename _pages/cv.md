@@ -49,7 +49,7 @@ Work in Progress
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Policy
+Policy Contributions
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
