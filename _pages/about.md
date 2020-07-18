@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am an economist working at the European Commission [Joint Research Centre](https://ec.europa.eu/jrc/en) (JRC), Monitoring, Indicators and Impact Evaluation Unit.
 
 I earner a MSc in Economics from Tilburg University (UvT) and PhD at the L'Università Cattolica del Sacro Cuore (UCSC), Department of International Economics, Institutions and Development, where I worked as a researcher. Prior to joining the JRC, I was a visiting researcher at [Chatham House](https://www.chathamhouse.org/), the Royal Institute of International Affairs, London.
