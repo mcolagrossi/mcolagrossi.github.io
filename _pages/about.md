@@ -16,7 +16,7 @@ I earner a MSc in Economics from Tilburg University (UvT) and PhD at the L'Unive
 
 My research interests include labor economics, public policy, microeconometrics methods.
 
-Contact Info
+Contacts
 ======
 European Commission - Joint Research Centre
 
