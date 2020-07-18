@@ -2,12 +2,12 @@
 title: "Googling Unemployment During the Pandemic: Inference and Nowcast Using Search Data"
 collection: talks
 permalink: /talks/2020_google
-excerpt: 'With Giulio Caperna (JRC), Andrea Geraci (JRC) and Gianluca Mazzarella (JRC)'
+excerpt: 'With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)'
 venue: 'SSRN working paper'
 date: May 2020
 paperurl: 'http://dx.doi.org/10.2139/ssrn.3627754'
 ---
-With Giulio Caperna (JRC), Andrea Geraci (JRC) and Gianluca Mazzarella (JRC)
+With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)
 
 Abstract 
 -----
