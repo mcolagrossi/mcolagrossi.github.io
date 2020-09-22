@@ -29,7 +29,7 @@ Skills
 ======
 * Programming
   * R (advanced)
-  * Stata (intermidiate)
+  * Stata (intermediate)
   * Python (basic)
 * Language
   * Italian (mother tongue)
