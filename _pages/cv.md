@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* September 2018 - Today: Economist
+* September 2018 - Today: Research Economist
   * Joint Research Centre, European Commission (IT)
 
 * September 2017 - September 2018: Research Assistant
