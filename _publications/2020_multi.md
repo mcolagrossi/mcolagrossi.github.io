@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020_multi
 excerpt: 'With Béatrice D Hombres (JRC) and [Sylke V. Schnepf](https://www.iza.org/person/1757/sylke-v-schnepf) (JRC)
 venue: 'European Economic Review'
-date: 2020
+date: 2020-11-11
 paperurl: 'https://doi.org/10.1016/j.euroecorev.2020.103600'
 ---
 With Béatrice D Hombres (JRC) and [Sylke V. Schnepf](https://www.iza.org/person/1757/sylke-v-schnepf) (JRC)
