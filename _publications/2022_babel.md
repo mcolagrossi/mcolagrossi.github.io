@@ -3,7 +3,7 @@ title: "A babel of web-searches: Googling unemployment during the pandemic"
 collection: publications
 permalink: /publications/2022_babel
 excerpt: 'With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)'
-venue: 'Labour Economics, Volume 74'
+venue: 'Labour Economics'
 date: 2022-01-01
 paperurl: 'https://doi.org/10.1016/j.labeco.2021.102097'
 ---
