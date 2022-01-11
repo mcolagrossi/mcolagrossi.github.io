@@ -5,7 +5,7 @@ permalink: /publications/2022_babel
 excerpt: 'With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)'
 venue: 'Labour Economics, Volume 74'
 date: 2022-01-01
-paperurl: 'https://doi.org/10.1016/j.ejpoleco.2019.101824'
+paperurl: 'https://doi.org/10.1016/j.labeco.2021.102097'
 ---
 With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)
 
