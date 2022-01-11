@@ -8,6 +8,7 @@ venue: 'Campbell Systematic Reviews'
 paperurl: 'https://doi.org/10.1002/cl2.1173'
 ---
 With [Giulia Mugellini](https://search.usi.ch/it/persone/9959f715e296f42f2d394481459d4e4f/mugellini-giulia) (USI), Sara Della Bella (SUPSI), Giang Ly Isenring and Martin Killias (HSG)
+
 Abstract 
 -----
 
