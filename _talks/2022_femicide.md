@@ -3,7 +3,7 @@ title: "Intimate partner violence and help-seeking: The role of femicide news"
 collection: talks
 permalink: /talks/2022_femicide
 excerpt: 'With [Claudio Deiana](https://www.claudiodeiana.net/) (UniCa), [Ludovica Giua](https://sites.google.com/site/ludovicagiua/home) (UniCa), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Elisa Iori](https://www.unibo.it/sitoweb/elisa.iori5)'
-venue: 'SSRN working paper'
+venue: 'Quaderni - Working Paper DSE N° 1169'
 date: January 2022
 paperurl: 'https://dx.doi.org/10.2139/ssrn.4005008'
 ---
