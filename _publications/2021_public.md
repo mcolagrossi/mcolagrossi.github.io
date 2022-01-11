@@ -1,7 +1,7 @@
 ---
 title: "Public sector reforms and their impact on the level of corruption: A systematic review"
 collection: publications
-permalink: /publication/2020_public
+permalink: /publication/2021_public
 excerpt: 'With [Giulia Mugellini](https://search.usi.ch/it/persone/9959f715e296f42f2d394481459d4e4f/mugellini-giulia) (USI), Sara Della Bella (SUPSI), Giang Ly Isenring and Martin Killias (HSG)'
 date: 2021-06-06
 venue: 'Campbell Systematic Reviews'
