@@ -7,7 +7,7 @@ venue: 'Labour Economics'
 date: 2022-01-01
 paperurl: 'https://doi.org/10.1016/j.labeco.2021.102097'
 ---
-With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Gianluca Mazzarella](https://sites.google.com/view/gianlucamazzarella/home) (JRC)
+With [Giulio Caperna](https://composite-indicators.jrc.ec.europa.eu/?q=giulio-caperna) (JRC), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Gianluca Mazzarella](https://gianlucamazzarella.github.io/) (JRC)
 
 Abstract 
 -----
