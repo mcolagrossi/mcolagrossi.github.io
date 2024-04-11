@@ -2,12 +2,12 @@
 title: "Intimate partner violence and help-seeking: The role of femicide news"
 collection: publications
 permalink: /publications/2023_femicide_news
-excerpt: 'With [Claudio Deiana](https://www.claudiodeiana.net/) (UniCa), [Davide Dragone](https://sites.google.com/site/davidedragone/) (UniBo), [Ludovica Giua](https://sites.google.com/site/ludovicagiua/home) (UniCa), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Elisa Iori](https://www.unibo.it/sitoweb/elisa.iori5) (UniBo)'
+excerpt: 'With [Claudio Deiana](https://www.claudiodeiana.net/) (UniCa), [Davide Dragone](https://sites.google.com/site/davidedragone/) (UniBo), [Ludovica Giua](https://sites.google.com/site/ludovicagiua/home) (UniCa), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (UniPV) and [Elisa Iori](https://www.unibo.it/sitoweb/elisa.iori5) (UniBo)'
 venue: 'Journal of Health Economics'
 date: January 2023
 paperurl: 'https://doi.org/10.1016/j.jhealeco.2022.102722'
 ---
-With [Claudio Deiana](https://www.claudiodeiana.net/) (UniCa), [Davide Dragone](https://sites.google.com/site/davidedragone/) (UniBo), [Ludovica Giua](https://sites.google.com/site/ludovicagiua/home) (UniCa), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (JRC) and [Elisa Iori](https://www.unibo.it/sitoweb/elisa.iori5) (UniBo)
+With [Claudio Deiana](https://www.claudiodeiana.net/) (UniCa), [Davide Dragone](https://sites.google.com/site/davidedragone/) (UniBo), [Ludovica Giua](https://sites.google.com/site/ludovicagiua/home) (UniCa), [Andrea Geraci](https://sites.google.com/view/andreageraci/home) (UniPV) and [Elisa Iori](https://www.unibo.it/sitoweb/elisa.iori5) (UniBo)
 
 Abstract 
 -----
