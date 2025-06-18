@@ -18,11 +18,14 @@ My research interests include labor economics, political economy and microeconom
 
 Contacts
 ======
-Università Cattolica del Sacro Cuore - Facoltà di Scienze politiche e sociali 
+Università Cattolica del Sacro Cuore - Facoltà di Scienze politiche e sociali
+
 Dipartimento di Economia internazionale, delle istituzioni e dello sviluppo (DISEIS)
 
 Largo Gemelli 1, 20123 Milan - Italy
+
 Tel. +39 02-7234-2776
+
 Email: marco.colagrossi [at] unicatt.it
 
 
