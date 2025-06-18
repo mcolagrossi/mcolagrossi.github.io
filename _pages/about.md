@@ -8,24 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist working at the European Commission [Joint Research Centre](https://ec.europa.eu/jrc/en) (JRC), Monitoring, Indicators and Impact Evaluation Unit.
+I am currently a researcher at the [Università Cattolica del Sacro Cuore](https://www.ucsc.it/), [Department of International Economics, Institutions and Development](https://dipartimenti.unicatt.it/diseis-home?rdeLocaleAttr=en).
 
-I earned an MSc in Economics from [Tilburg University](https://www.tilburguniversity.edu/) (UvT) and a PhD at the [Università Cattolica del Sacro Cuore](https://www.ucsc.it/) (UCSC), Department of International Economics, Institutions and Development, where I worked as a researcher. Prior to joining the [European Commission Joint Research Centre](https://ec.europa.eu/jrc/en) (JRC), I was a visiting researcher at [Chatham House](https://www.chathamhouse.org/), the Royal Institute of International Affairs, London.
+I earned an MSc in Economics from [Tilburg University](https://www.tilburguniversity.edu/) (UvT) and a PhD at the [Università Cattolica del Sacro Cuore](https://www.ucsc.it/) (UCSC), Department of International Economics, Institutions and Development, where I worked as a researcher. Prior to joining the [Università Cattolica del Sacro Cuore](https://www.ucsc.it/) (UCSC), I was an economist for 6+ years at the European Commission [Joint Research Centre](https://ec.europa.eu/jrc/en) (JRC), Monitoring, Indicators and Impact Evaluation Unit.
 
 My research interests include labor economics, political economy and microeconometrics methods.
 
+ 
+
 Contacts
 ======
-European Commission - Joint Research Centre
+Università Cattolica del Sacro Cuore
 
-Unit I.1 -  Monitoring, Indicators and Impact Evaluation 
+Facoltà di Scienze politiche e sociali 
 
-Via E. Fermi 2749,
+Dipartimento di Economia internazionale, delle istituzioni e dello sviluppo (DISEIS)
 
-TP 361, 21027, Ispra (VA), Italy
+Largo Gemelli 1, 
 
-Tel. +39 0332 78 9526
+20123 Milan - Italy
 
-Email: marco.colagrossi [at] ec.europa.eu
+Tel. +39 02-7234-2776
+
+Email: marco.colagrossi [at] unicatt.it
 
 
